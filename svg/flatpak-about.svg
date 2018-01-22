@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1020"
+   height="1430"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   version="1.0"
+   sodipodi:docname="about-960.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/aday/checkout/flatpak-website-mockups/flatpak.org-960.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata2425">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3004">
+      <stop
+         id="stop3006"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.34214258"
+         id="stop7609" />
+      <stop
+         style="stop-color:#bebdf3;stop-opacity:1;"
+         offset="0.51998252"
+         id="stop7599" />
+      <stop
+         id="stop7611"
+         offset="0.75408828"
+         style="stop-color:#8f82f9;stop-opacity:1;" />
+      <stop
+         style="stop-color:#9f99c7;stop-opacity:1;"
+         offset="0.8711412"
+         id="stop7613" />
+      <stop
+         id="stop3008"
+         offset="1"
+         style="stop-color:#524c76;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="522.75323"
+     inkscape:cy="368.51965"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:measure-start="612.354,2733.67"
+     inkscape:measure-end="0,0">
+    <sodipodi:guide
+       position="30.0001,176.00314"
+       orientation="1,0"
+       id="guide-30"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.0001,176.00314"
+       orientation="1,0"
+       id="guide-40"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="100.0001,176.00314"
+       orientation="1,0"
+       id="guide-100"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="110.0001,176.00314"
+       orientation="1,0"
+       id="guide-110"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="120.0001,176.00314"
+       orientation="1,0"
+       id="guide-120"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="180.0001,176.00314"
+       orientation="1,0"
+       id="guide-180"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="190.0001,176.00314"
+       orientation="1,0"
+       id="guide-190"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="200.0001,176.00314"
+       orientation="1,0"
+       id="guide-200"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="260.0001,176.00314"
+       orientation="1,0"
+       id="guide-260"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="270.0001,176.00314"
+       orientation="1,0"
+       id="guide-270"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="280.0001,176.00314"
+       orientation="1,0"
+       id="guide-280"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="340.0001,176.00314"
+       orientation="1,0"
+       id="guide-340"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="350.0001,176.00314"
+       orientation="1,0"
+       id="guide-350"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="360.0001,176.00314"
+       orientation="1,0"
+       id="guide-360"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="420.0001,176.00314"
+       orientation="1,0"
+       id="guide-420"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="430.0001,176.00314"
+       orientation="1,0"
+       id="guide-430"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="440.0001,176.00314"
+       orientation="1,0"
+       id="guide-440"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="500.0001,176.00314"
+       orientation="1,0"
+       id="guide-500"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="510.0001,176.00314"
+       orientation="1,0"
+       id="guide-510"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="580.0001,176.00314"
+       orientation="1,0"
+       id="guide-580"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="590.0001,176.00314"
+       orientation="1,0"
+       id="guide-590"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="600.0001,176.00314"
+       orientation="-1,6.123234e-17"
+       id="guide-600"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="660.0001,176.00314"
+       orientation="1,0"
+       id="guide-660"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="670.0001,176.00314"
+       orientation="1,0"
+       id="guide-670"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="680.0001,176.00314"
+       orientation="1,0"
+       id="guide-680"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="740.0001,176.00314"
+       orientation="1,0"
+       id="guide-740"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="750.0001,176.00314"
+       orientation="1,0"
+       id="guide-750"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="760.0001,176.00314"
+       orientation="1,0"
+       id="guide-760"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="820.0001,176.00314"
+       orientation="1,0"
+       id="guide-820"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="830.0001,176.00314"
+       orientation="1,0"
+       id="guide-830"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="840.0001,176.00314"
+       orientation="1,0"
+       id="guide-840"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="900.0001,176.00314"
+       orientation="1,0"
+       id="guide-900"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="910.0001,176.00314"
+       orientation="1,0"
+       id="guide-910"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="920.0001,176.00314"
+       orientation="1,0"
+       id="guide-920"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="980.0001,176.00314"
+       orientation="1,0"
+       id="guide-980"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="990.0001,176.00314"
+       orientation="1,0"
+       id="guide-990"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2390"
+       visible="true"
+       enabled="true"
+       color="#0000ff"
+       opacity="0.0627451"
+       empcolor="#0000ff"
+       empopacity="0.1254902"
+       dotted="false"
+       spacingx="1"
+       spacingy="1"
+       originx="9.9360943e-05"
+       originy="176.00314" />
+    <sodipodi:guide
+       position="520.0001,376.00314"
+       orientation="1,0"
+       id="guide1512"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="stuff"
+     transform="translate(5.2601099e-5,190)"
+     style="opacity:1">
+    <rect
+       y="-497.5"
+       x="1144.5"
+       height="39"
+       width="678.99994"
+       id="rect2576"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(-65.613957,-337.36723)"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:22px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot2586"
+       xml:space="preserve"><flowRegion
+         id="flowRegion2582"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;text-anchor:start;fill:#4a90d9;fill-opacity:1"><rect
+           y="168.23396"
+           x="91.428574"
+           height="209.99998"
+           width="672.85718"
+           id="rect2580"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;text-anchor:start;fill:#4a90d9;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;text-anchor:start;fill:#4a90d9;fill-opacity:1"
+         id="flowPara2584">FLATPAK</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2594"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(121.7184,-234.89906)"><flowRegion
+         id="flowRegion2590"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect2588"
+           width="594.26428"
+           height="212.65685"
+           x="91.428574"
+           y="168.23396"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowPara1524">About Flatpak</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2626"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(225.7396,-338.41642)"><flowRegion
+         style="font-size:12px;text-align:end;text-anchor:end;fill:#000000"
+         id="flowRegion2622"><rect
+           style="font-size:12px;text-align:end;text-anchor:end;fill:#000000"
+           id="rect2620"
+           width="672.85718"
+           height="209.99998"
+           x="91.428574"
+           y="168.23396" /></flowRegion><flowPara
+         id="flowPara2624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:end;text-anchor:end;fill:#000000">ABOUT / GET INVOLVED / CONTACT</flowPara></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect2913"
+       width="1019"
+       height="394.99927"
+       x="0.4999474"
+       y="844.50067" />
+    <rect
+       transform="rotate(135)"
+       y="-825.89691"
+       x="554.36945"
+       height="79.999992"
+       width="79.999992"
+       id="rect2915"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2923"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(167.225,741.5721)"><flowRegion
+         id="flowRegion2919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"><rect
+           id="rect2917"
+           width="592.4491"
+           height="343.54221"
+           x="91.428574"
+           y="168.23396"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara2921"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff">HOME</flowPara></flowRoot>    <flowRoot
+       transform="translate(167.225,780.9978)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot2931"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowRegion2927"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+           y="168.23396"
+           x="91.428574"
+           height="343.54221"
+           width="592.4491"
+           id="rect2925" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowPara2929">INSTALL APPLICATIONS</flowPara></flowRoot>    <flowRoot
+       transform="translate(167.225,861.3803)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot2939"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowRegion2935"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+           y="168.23396"
+           x="91.428574"
+           height="343.54221"
+           width="592.4491"
+           id="rect2933" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowPara2937">PRESS</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2947"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(167.225,899.5715)"><flowRegion
+         id="flowRegion2943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"><rect
+           id="rect2941"
+           width="592.4491"
+           height="343.54221"
+           x="91.428574"
+           y="168.23396"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara2945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff">FAQ</flowPara></flowRoot>    <flowRoot
+       transform="translate(167.225,822.689)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot2955"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowRegion2951"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+           y="168.23396"
+           x="91.428574"
+           height="343.54221"
+           width="592.4491"
+           id="rect2949" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowPara2953">DEVELOPER DOCUMENTATION</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2957"
+       d="m 431.0086,955.0132 -7.6974,6.5917"
+       style="fill:none;stroke:#ffffff;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 431.4999,954.0025 v 7.0001"
+       id="path2959"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2961"
+       d="m 431.9999,954.5025 h -7"
+       style="fill:none;stroke:#ffffff;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 477.0086,997.0132 -7.6974,6.5916"
+       id="path2963"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2965"
+       d="m 477.4999,996.0025 v 7.0001"
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 477.9999,996.5025 h -7"
+       id="path2967"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="translate(167.225,939.5714)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot2975"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowRegion2971"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+           y="168.23396"
+           x="91.428574"
+           height="343.54221"
+           width="592.4491"
+           id="rect2969" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff"
+         id="flowPara2973">ABOUT / GET INVOLVED / CONTACT</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1829"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(223.5385,-124.61598)"><flowRegion
+         id="flowRegion1825"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"><rect
+           id="rect1823"
+           width="661.04242"
+           height="198.51781"
+           x="-43.57143"
+           y="167.73396"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara1827"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436">Flatpak might be a new technology, but it's not a new idea. It grew out of the experience of long-standing Linux desktop engineers, and has been in the planning for years.  Our aim is to revolutionise the Linux desktop, by providing a single platform for distributing applications.</flowPara></flowRoot>    <flowRoot
+       transform="translate(223.5385,-14.616)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1837"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowRegion1833"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"
+           y="167.73396"
+           x="-43.57143"
+           height="150.51781"
+           width="659.04242"
+           id="rect1831" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara1835">Flatpak is developed by an independent community, made up of contributors, volunteers and supporting organizations. Its lead developer is Alex Larsson, Principal Engineer at Red Hat. Alex has been working on critical open source projects for almost 20 years and is an expert in containerisation and Linux subsystems. </flowPara></flowRoot>    <flowRoot
+       transform="translate(88.5385,223.2932)"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:110.00000238%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1845"
+       xml:space="preserve"><flowRegion
+         style="font-size:24px;line-height:110.00000238%;text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowRegion1841"><rect
+           style="font-size:24px;line-height:110.00000238%;text-align:start;text-anchor:start;fill:#2e3436"
+           y="168.23396"
+           x="91.428574"
+           height="226.65685"
+           width="542.26428"
+           id="rect1839" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara1843">Get involved</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1853"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(223.5385,267.3842)"><flowRegion
+         id="flowRegion1849"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"><rect
+           id="rect1847"
+           width="659.04242"
+           height="153.51781"
+           x="-43.57143"
+           y="167.73396"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara1851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436">All our code is freely available, with no contributor agreement required. Our goals are ambitious and there are many opportunities to help - new contributors and participating are extremely welcome, and we encourage you to get in touch.</flowPara></flowRoot>    <flowRoot
+       transform="translate(209.5384,359.3842)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1865"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:end;text-anchor:end;fill:#919191"
+         id="flowRegion1857"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:end;text-anchor:end;fill:#919191"
+           y="167.73396"
+           x="-43.57143"
+           height="164.51781"
+           width="88.042412"
+           id="rect1855" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#919191"
+         id="flowPara1859">Mailing list</flowPara><flowPara
+         id="flowPara1861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#919191">IRC</flowPara><flowPara
+         id="flowPara1863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#919191">Github</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1877"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(309.5385,359.3842)"><flowRegion
+         id="flowRegion1869"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#4a90d9"><rect
+           id="rect1867"
+           width="231.04242"
+           height="172.51781"
+           x="-43.57143"
+           y="167.73396"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#4a90d9" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#4a90d9"
+         id="flowPara1871">flatpak@lists.freedesktop.org</flowPara><flowPara
+         id="flowPara1873"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#4a90d9">#flatpak on chat.freenode.net</flowPara><flowPara
+         id="flowPara1875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#4a90d9">github.com/flatpak/</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1885"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(223.5385,99.3841)"><flowRegion
+         id="flowRegion1881"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"><rect
+           id="rect1879"
+           width="661.04242"
+           height="142.51781"
+           x="-43.57143"
+           y="167.73396"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara1883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:145.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436">We have strong links with other Free Software projects, including the Freedesktop project. We liase and collaborate wherever possible, and members of other Free Software projects are welcome to participate.</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="circles"
+     style="display:none;opacity:0.172"
+     transform="translate(5.2601099e-5,190)">
+    <circle
+       r="26.999996"
+       cy="239.99451"
+       cx="389.99997"
+       id="circle2664"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="26.999996"
+       cy="239.99451"
+       cx="229.99989"
+       id="circle2666"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2668"
+       cx="469.99991"
+       cy="239.99451"
+       r="26.999996" />
+    <circle
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2670"
+       cx="309.99997"
+       cy="239.99451"
+       r="26.999996" />
+    <circle
+       r="26.999996"
+       cy="239.99451"
+       cx="550"
+       id="circle2672"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="26.999996"
+       cy="239.99689"
+       cx="790.00006"
+       id="circle2674"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2676"
+       cx="629.99994"
+       cy="239.99451"
+       r="26.999996" />
+    <circle
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1718"
+       cx="710"
+       cy="239.99689"
+       r="26.999996" />
+    <circle
+       r="35.000011"
+       cy="670.99689"
+       cx="270.99994"
+       id="circle2680"
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1702"
+       cx="429.00006"
+       cy="670.99689"
+       r="35.000011" />
+    <circle
+       r="35.000011"
+       cy="670.99689"
+       cx="589.00006"
+       id="circle1704"
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1706"
+       cx="270.99994"
+       cy="774.99689"
+       r="35.000011" />
+    <circle
+       r="35.000011"
+       cy="774.99689"
+       cx="429.00003"
+       id="circle1708"
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1710"
+       cx="589.00006"
+       cy="774.99689"
+       r="35.000011" />
+    <circle
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1720"
+       cx="749.00006"
+       cy="670.99689"
+       r="35.000011" />
+    <circle
+       r="35.000011"
+       cy="774.99689"
+       cx="749.00006"
+       id="circle1722"
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3200"
+       cx="270.99994"
+       cy="894.99689"
+       r="35.000011" />
+    <circle
+       r="35.000011"
+       cy="894.99689"
+       cx="429.00003"
+       id="circle3202"
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#1c5288;fill-opacity:1;stroke:#1c5288;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle3204"
+       cx="589.00006"
+       cy="894.99689"
+       r="35.000011" />
+  </g>
+</svg>
