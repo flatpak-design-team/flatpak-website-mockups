@@ -10,9 +10,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3040"
-   height="2700"
-   viewBox="0 0 804.33337 714.37509"
+   width="2710"
+   height="2190"
+   viewBox="0 0 717.02086 579.43757"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
@@ -39,8 +39,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1544.1233"
-     inkscape:cy="1398.6837"
+     inkscape:cx="1649.9069"
+     inkscape:cy="936.37622"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -95,7 +95,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,417.37502)">
+     transform="translate(0,282.43751)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot10877"
@@ -121,14 +121,14 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       y="-307.17572"
-       x="75.539581"
+       y="-206.63402"
+       x="26.590628"
        height="275.96011"
        width="214.04739"
        id="rect13704"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,115.50949,-314.93012)"
+       transform="matrix(0.26458333,0,0,0.26458333,66.560536,-214.38841)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot13712"
        xml:space="preserve"><flowRegion
@@ -142,366 +142,24 @@
            id="rect13706" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
          id="flowPara13710">Flathub is a growing collection of apps which can be easily installed on any Linux distribution. Browse from your app center or the command line.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,317.11783,28.599005)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#484848;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot14316"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowRegion14312"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-           y="168.23396"
-           x="91.428574"
-           height="356.51779"
-           width="416.04245"
-           id="rect14310" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowPara14314">Flathub is powered by a technology called Flatpak. To install the latest version, we recommend the official Flatpak PPA. To install it, run the following in a terminal:</flowPara></flowRoot>    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect14318"
-       width="111.91857"
-       height="21.431124"
-       x="341.44641"
-       y="83.878082" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot14334"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#484848;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,322.4095,43.415706)"><flowRegion
-         id="flowRegion14322"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"><rect
-           id="rect14320"
-           width="466.54245"
-           height="345.51782"
-           x="91.428574"
-           y="168.23396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara14324"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1">$ sudo add-apt-repository ppa:alexlarsson/flatpak</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowPara14326" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowPara14328">$ sudo apt update</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowPara14330" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowPara14332">$ sudo apt install flatpak</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot14342"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,317.11783,20.661521)"><flowRegion
-         id="flowRegion14338"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"><rect
-           id="rect14336"
-           width="467.54245"
-           height="366.51782"
-           x="91.428574"
-           y="168.23396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara14340"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">Install Flatpak</flowPara></flowRoot>    <circle
-       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle14344"
-       cx="327.82043"
-       cy="72.633522"
-       r="7.1437497" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,241.69194,26.804915)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot14352"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-         id="flowRegion14348"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-           y="168.23396"
-           x="91.428574"
-           height="366.51782"
-           width="467.54245"
-           id="rect14346" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-         id="flowPara14350">1</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,317.11783,68.815708)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot14360"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-         id="flowRegion14356"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-           y="168.23396"
-           x="91.428574"
-           height="366.51782"
-           width="467.54245"
-           id="rect14354" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-         id="flowPara14358">Install the Software Flatpak plugin</flowPara></flowRoot>    <circle
-       r="7.1437497"
-       cy="120.25842"
-       cx="327.82043"
-       id="circle14362"
-       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot14370"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,241.69194,74.429918)"><flowRegion
-         id="flowRegion14366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"><rect
-           id="rect14364"
-           width="467.54245"
-           height="366.51782"
-           x="91.428574"
-           y="168.23396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara14368"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">2</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot14378"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#484848;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,317.11783,77.282348)"><flowRegion
-         id="flowRegion14374"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"><rect
-           id="rect14372"
-           width="422.54245"
-           height="349.51779"
-           x="91.428574"
-           y="168.23396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara14376"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1">The Flatpak plugin for the Software app makes it possible to install apps without needing the command line. It can be installed from Software itself or you can this command in a terminal:</flowPara></flowRoot>    <rect
-       y="135.7364"
-       x="341.44641"
-       height="10.318677"
-       width="111.91857"
-       id="rect14388"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,322.4095,95.27404)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#484848;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot14396"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowRegion14392"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-           y="168.23396"
-           x="91.428574"
-           height="345.51782"
-           width="466.54245"
-           id="rect14390" /></flowRegion><flowPara
-         id="flowPara14394"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1">$ sudo add install gnome-software-plugin-flatpak</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot14404"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,317.11783,152.95341)"><flowRegion
-         id="flowRegion14400"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"><rect
-           id="rect14398"
-           width="467.54245"
-           height="366.51782"
-           x="91.428574"
-           y="168.23396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara14402"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">Restart</flowPara></flowRoot>    <circle
-       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle14406"
-       cx="327.82043"
-       cy="202.80795"
-       r="7.1437497" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,241.69194,156.98011)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot14414"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-         id="flowRegion14410"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-           y="168.23396"
-           x="91.428574"
-           height="366.51782"
-           width="467.54245"
-           id="rect14408" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-         id="flowPara14412">4</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot14422"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#484848;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,317.11783,160.36175)"><flowRegion
-         id="flowRegion14418"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"><rect
-           id="rect14416"
-           width="466.54245"
-           height="345.51782"
-           x="91.428574"
-           y="168.23396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara14420"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1">To complete setup, restart your system. Then you're done!</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot14430"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#484848;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,317.11783,120.14506)"><flowRegion
-         id="flowRegion14426"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"><rect
-           id="rect14424"
-           width="466.54245"
-           height="345.51782"
-           x="91.428574"
-           y="168.23396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara14428"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1">To add the Flathub repository, run the following command:</flowPara></flowRoot>    <rect
-       y="172.2487"
-       x="341.44641"
-       height="15.081208"
-       width="111.91857"
-       id="rect14432"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,322.4095,131.25753)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#484848;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot14442"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowRegion14436"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
-           y="168.23396"
-           x="91.428574"
-           height="345.51782"
-           width="466.54245"
-           id="rect14434" /></flowRegion><flowPara
-         id="flowPara14438"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1">$ flatpak remote-add --if-not-exists flathub </flowPara><flowPara
-         id="flowPara14440"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1">https://flathub.org/repo/flathub.flatpakrepo</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,317.11783,111.67824)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot14450"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-         id="flowRegion14446"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-           y="168.23396"
-           x="91.428574"
-           height="366.51782"
-           width="467.54245"
-           id="rect14444" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-         id="flowPara14448">Add Flathub</flowPara></flowRoot>    <circle
-       r="7.1437497"
-       cy="163.12077"
-       cx="327.82043"
-       id="circle14452"
-       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot14460"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,241.69194,117.29253)"><flowRegion
-         id="flowRegion14456"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"><rect
-           id="rect14454"
-           width="467.54245"
-           height="366.51782"
-           x="91.428574"
-           y="168.23396"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara14458"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">3</flowPara></flowRoot>    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect14470"
-       width="28.839584"
-       height="28.839584"
-       x="100.67422"
-       y="63.769569" />
-    <rect
-       y="63.769569"
-       x="135.07022"
-       height="28.839584"
-       width="28.839584"
-       id="rect14472"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect14474"
-       width="28.839584"
-       height="28.839584"
-       x="169.46608"
-       y="63.769569" />
-    <rect
-       y="63.769569"
-       x="203.86215"
-       height="28.839584"
-       width="28.839584"
-       id="rect14476"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <rect
-       y="98.694695"
-       x="100.67422"
-       height="28.839584"
-       width="28.839584"
-       id="rect14478"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect14480"
-       width="28.839584"
-       height="28.839584"
-       x="135.07022"
-       y="98.694695" />
-    <rect
-       y="98.694695"
-       x="169.46608"
-       height="28.839584"
-       width="28.839584"
-       id="rect14482"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect14484"
-       width="28.839584"
-       height="28.839584"
-       x="203.86215"
-       y="98.694695" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect14486"
-       width="28.839584"
-       height="28.839584"
-       x="100.67422"
-       y="133.61948" />
-    <rect
-       y="133.61948"
-       x="135.07022"
-       height="28.839584"
-       width="28.839584"
-       id="rect14488"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect14490"
-       width="28.839584"
-       height="28.839584"
-       x="169.46608"
-       y="133.61948" />
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,52.5101,-402.14285)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,2.2382294,-292.86982)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.00000763px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14518"
        xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#babdb6;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.00000763px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
          id="flowRegion14514"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#babdb6;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.00000763px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
            y="168.23396"
            x="91.428574"
            height="286.51782"
            width="679.54242"
            id="rect14512" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#babdb6;fill-opacity:1"
-         id="flowPara14516">flathub.org</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:64.00000763px;line-height:13px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1"
+         id="flowPara14516">flathub.org wireframes</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot14644"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,86.679759,-328.69134)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,37.730805,-228.14963)"><flowRegion
          id="flowRegion14640"
          style="font-size:32px;line-height:110.00000238%;text-align:center;text-anchor:middle"><rect
            id="rect14638"
@@ -512,14 +170,14 @@
            style="font-size:32px;line-height:110.00000238%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara14642"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Apps for Linux</flowPara></flowRoot>    <rect
-       y="-247.37979"
-       x="161.52888"
+       y="-146.83809"
+       x="112.57993"
        height="9.260417"
        width="42.068748"
        id="rect14646"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,69.350511,-291.44045)"
+       transform="matrix(0.26458333,0,0,0.26458333,20.401557,-190.89874)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14654"
        xml:space="preserve"><flowRegion
@@ -533,14 +191,14 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
          id="flowPara14652">Quick setup</flowPara></flowRoot>    <rect
-       y="-312.46783"
-       x="75.539581"
+       y="-211.92613"
+       x="26.590628"
        height="10.31875"
        width="214.04791"
        id="rect14698"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,157.51502,-354.51424)"
+       transform="matrix(0.26458333,0,0,0.26458333,108.56607,-253.97253)"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14706"
        xml:space="preserve"><flowRegion
@@ -557,7 +215,7 @@
        xml:space="preserve"
        id="flowRoot14714"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,123.11918,-354.51424)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,74.170226,-253.97253)"><flowRegion
          style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowRegion14710"><rect
            style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
@@ -568,7 +226,7 @@
            y="168.23396" /></flowRegion><flowPara
          id="flowPara14712"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff">PUBLISH AN APP</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,56.62983,-354.46564)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.680876,-253.92393)"
        style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:22px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14722"
        xml:space="preserve"><flowRegion
@@ -582,46 +240,22 @@
            style="font-size:14.66666698px;text-align:start;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff"
          id="flowPara14720">FLATHUB</flowPara></flowRoot>    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path14788"
-       d="M 166.29065,-242.88194 H 50.13857 V 34.798277 h 13.229171"
-       style="fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 63.235811,30.829182 4.92787,3.968747 -4.92787,3.968727 z"
-       id="path14790"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path14792"
-       d="m 291.83585,36.650036 4.92787,3.96875 -4.92787,3.96875 z"
-       style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 218.54629,78.057288 h 60.72175 l 1e-4,-37.570742 h 13.75841"
-       id="path14794"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path14796"
-       d="M 307.9747,-184.67399 H 263.52498"
+       d="M 259.02575,-84.132282 H 214.57603"
        style="fill:none;fill-rule:evenodd;stroke:#babdb6;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path14828"
-       d="m 326.89355,-227.27192 h 153.19329 v 84.4025 H 326.89355 Z"
+       d="m 277.9446,-126.73021 h 153.19329 v 84.402498 H 277.9446 Z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot14836"
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:110.00000238%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,309.10234,-265.19155)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,260.15339,-164.64984)"><flowRegion
          id="flowRegion14832"
          style="font-size:24px;line-height:110.00000238%;text-align:start;text-anchor:start"><rect
            id="rect14830"
@@ -632,7 +266,7 @@
            style="font-size:24px;line-height:110.00000238%;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara14834"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">Installation Options</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,344.82112,-243.71232)"
+       transform="matrix(0.26458333,0,0,0.26458333,295.87217,-143.17061)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14844"
        xml:space="preserve"><flowRegion
@@ -646,7 +280,7 @@
            id="rect14838" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;text-anchor:start"
          id="flowPara14842">1. With an app center</flowPara></flowRoot>    <g
-       transform="translate(-650.87546,-91.545896)"
+       transform="translate(-699.82441,8.9958117)"
        id="g14856">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:#3465a4;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -674,7 +308,7 @@
        xml:space="preserve"
        id="flowRoot14864"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,344.82112,-228.14702)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,295.87217,-127.60531)"><flowRegion
          id="flowRegion14860"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start"><rect
            id="rect14858"
@@ -688,7 +322,7 @@
        xml:space="preserve"
        id="flowRoot14874"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,344.82112,-257.78045)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,295.87217,-157.23874)"><flowRegion
          id="flowRegion14868"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#888a85"><rect
            id="rect14866"
@@ -707,13 +341,13 @@
        id="rect14876"
        width="141.02177"
        height="10.318677"
-       x="332.97919"
-       y="-175.94334" />
+       x="284.03024"
+       y="-75.401634" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot14884"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#484848;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,313.94251,-216.40552)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,264.99356,-115.86381)"><flowRegion
          id="flowRegion14880"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"><rect
            id="rect14878"
@@ -724,7 +358,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:10px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666603px;line-height:10px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:start;text-anchor:start;fill:#484848;fill-opacity:1"
          id="flowPara14882">$ flatpak install flathub org.author.app</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,344.82112,-204.86372)"
+       transform="matrix(0.26458333,0,0,0.26458333,295.87217,-104.32201)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:19px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot14896"
        xml:space="preserve"><flowRegion
@@ -745,7 +379,7 @@
        style="display:inline"
        id="g14902"
        inkscape:label="window-close"
-       transform="matrix(0.26458333,0,0,0.26458333,470.9599,-222.11292)">
+       transform="matrix(0.26458333,0,0,0.26458333,422.01095,-121.57121)">
       <rect
          width="16"
          height="16"
@@ -760,126 +394,6 @@
          style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
          sodipodi:nodetypes="ccsccccccccccccccccccccccc" />
     </g>
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect14924"
-       width="179.65208"
-       height="228.33517"
-       x="76.8619"
-       y="15.615725" />
-    <g
-       id="g15010"
-       transform="translate(-693.20832,322.7919)">
-      <rect
-         y="-312.4679"
-         x="770.07037"
-         height="10.31875"
-         width="179.65208"
-         id="rect14984"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,817.91498,-354.51424)"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot14992"
-         xml:space="preserve"><flowRegion
-           id="flowRegion14988"
-           style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"><rect
-             y="168.23396"
-             x="91.428574"
-             height="209.99998"
-             width="672.85718"
-             id="rect14986"
-             style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-           id="flowPara14990">ABOUT &amp; CONTACT</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot15000"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="matrix(0.26458333,0,0,0.26458333,783.51914,-354.51424)"><flowRegion
-           style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
-           id="flowRegion14996"><rect
-             style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
-             id="rect14994"
-             width="672.85718"
-             height="209.99998"
-             x="91.428574"
-             y="168.23396" /></flowRegion><flowPara
-           id="flowPara14998"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff">PUBLISH AN APP</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,749.83814,-354.46564)"
-         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:22px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot15008"
-         xml:space="preserve"><flowRegion
-           id="flowRegion15004"
-           style="font-size:14.66666698px;text-align:start;text-anchor:start;fill:#ffffff"><rect
-             y="168.23396"
-             x="91.428574"
-             height="209.99998"
-             width="672.85718"
-             id="rect15002"
-             style="font-size:14.66666698px;text-align:start;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff"
-           id="flowPara15006">FLATHUB</flowPara></flowRoot>    </g>
-    <rect
-       y="15.615725"
-       x="304.4046"
-       height="228.33517"
-       width="179.65208"
-       id="rect15012"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <g
-       transform="translate(-465.66662,322.7919)"
-       id="g15040">
-      <rect
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         id="rect15014"
-         width="179.65208"
-         height="10.31875"
-         x="770.07037"
-         y="-312.4679" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot15022"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="matrix(0.26458333,0,0,0.26458333,817.91498,-354.51424)"><flowRegion
-           style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
-           id="flowRegion15018"><rect
-             style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
-             id="rect15016"
-             width="672.85718"
-             height="209.99998"
-             x="91.428574"
-             y="168.23396" /></flowRegion><flowPara
-           id="flowPara15020"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff">ABOUT &amp; CONTACT</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,783.51914,-354.51424)"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot15030"
-         xml:space="preserve"><flowRegion
-           id="flowRegion15026"
-           style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"><rect
-             y="168.23396"
-             x="91.428574"
-             height="209.99998"
-             width="672.85718"
-             id="rect15024"
-             style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff"
-           id="flowPara15028">PUBLISH AN APP</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot15038"
-         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:22px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="matrix(0.26458333,0,0,0.26458333,749.83814,-354.46564)"><flowRegion
-           style="font-size:14.66666698px;text-align:start;text-anchor:start;fill:#ffffff"
-           id="flowRegion15034"><rect
-             style="font-size:14.66666698px;text-align:start;text-anchor:start;fill:#ffffff"
-             id="rect15032"
-             width="672.85718"
-             height="209.99998"
-             x="91.428574"
-             y="168.23396" /></flowRegion><flowPara
-           id="flowPara15036"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff">FLATHUB</flowPara></flowRoot>    </g>
     <g
        id="g15664"
        transform="translate(160.33715,-1059.3921)" />
@@ -887,7 +401,7 @@
        xml:space="preserve"
        id="flowRoot4223"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:129.99999523%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,340.05844,-177.34703)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,291.10949,-76.805322)"><flowRegion
          id="flowRegion4215"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:129.99999523%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"><rect
            id="rect4213"
@@ -902,13 +416,13 @@
        id="rect10875"
        width="23.547916"
        height="9.260417"
-       x="153.59128"
-       y="-189.17168" />
+       x="104.64233"
+       y="-88.629967" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot10883"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,52.10646,-233.23208)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,3.157506,-132.69037)"><flowRegion
          style="text-align:center;text-anchor:middle"
          id="flowRegion10879"><rect
            style="text-align:center;text-anchor:middle"
@@ -920,7 +434,7 @@
          id="flowPara10881"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Install...</flowPara></flowRoot>    <g
        id="g10900"
-       transform="translate(-312.20778,167.21666)">
+       transform="translate(-361.15673,267.75837)">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect10885"
@@ -944,14 +458,14 @@
            id="flowPara10891"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Install...</flowPara></flowRoot>    </g>
     <rect
-       y="-162.71361"
-       x="153.59128"
+       y="-62.171902"
+       x="104.64233"
        height="9.260417"
        width="23.547916"
        id="rect11037"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,52.10646,-206.77373)"
+       transform="matrix(0.26458333,0,0,0.26458333,3.157506,-106.23202)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11045"
        xml:space="preserve"><flowRegion
@@ -965,7 +479,7 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
          id="flowPara11043">Install...</flowPara></flowRoot>    <g
-       transform="translate(-312.20778,193.67498)"
+       transform="translate(-361.15673,294.21669)"
        id="g11057">
       <rect
          y="-356.38834"
@@ -994,13 +508,13 @@
        id="rect11100"
        width="23.547916"
        height="9.260417"
-       x="153.59128"
-       y="-136.25549" />
+       x="104.64233"
+       y="-35.713787" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot11108"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,52.10646,-180.31538)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,3.157506,-79.773672)"><flowRegion
          style="text-align:center;text-anchor:middle"
          id="flowRegion11104"><rect
            style="text-align:center;text-anchor:middle"
@@ -1012,7 +526,7 @@
          id="flowPara11106"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Install...</flowPara></flowRoot>    <g
        id="g11120"
-       transform="translate(-312.20778,220.13332)">
+       transform="translate(-361.15673,320.67503)">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect11110"
@@ -1036,7 +550,7 @@
            id="flowPara11116"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Install...</flowPara></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,86.679759,-266.77881)"
+       transform="matrix(0.26458333,0,0,0.26458333,37.730805,-166.2371)"
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11181"
        xml:space="preserve"><flowRegion
@@ -1053,10 +567,10 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path11185"
-       d="m 306.65262,-188.77513 4.92787,3.96875 -4.92787,3.96874 z"
+       d="m 257.70367,-88.233422 4.92787,3.96875 -4.92787,3.96874 z"
        style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:#babdb6;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,316.24591,-128.66366)"
+       transform="matrix(0.26458333,0,0,0.26458333,267.29696,-28.121952)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:129.99999523%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11273"
        xml:space="preserve"><flowRegion
@@ -1073,7 +587,7 @@
        xml:space="preserve"
        id="flowRoot11281"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,115.50949,-256.72175)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,66.560536,-156.18004)"><flowRegion
          id="flowRegion11277"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;text-anchor:middle"><rect
            id="rect11275"
@@ -1083,79 +597,15 @@
            y="167.73396"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara11279"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Flathub contains 162 apps (and counting!) These are some of them.</flowPara></flowRoot>    <g
-       transform="translate(-190.49898,123.82609)"
-       id="g11397">
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,243.97138,-133.99941)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:22px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot11379"
-         xml:space="preserve"><flowRegion
-           id="flowRegion11375"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"><rect
-             y="168.23396"
-             x="91.428574"
-             height="209.99998"
-             width="672.85718"
-             id="rect11373"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-           id="flowPara11377">Quick Setup</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,269.27734,-124.33019)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot11387"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-           id="flowRegion11383"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-             y="168.23396"
-             x="91.428574"
-             height="372.17468"
-             width="482.0105"
-             id="rect11381" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-           id="flowPara11385">Select your distro to get setup.</flowPara></flowRoot>      <g
-         id="g11462"
-         transform="translate(227.54181)">
-        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,243.97138,-133.99941)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:22px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="flowRoot11444"
-           xml:space="preserve"><flowRegion
-             id="flowRegion11440"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"><rect
-               y="168.23396"
-               x="91.428574"
-               height="209.99998"
-               width="672.85718"
-               id="rect11438"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
-             id="flowPara11442">Ubuntu Quick Setup</flowPara></flowRoot>        <flowRoot
-           transform="matrix(0.26458333,0,0,0.26458333,291.05648,-124.33019)"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="flowRoot11452"
-           xml:space="preserve"><flowRegion
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-             id="flowRegion11448"><rect
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-               y="168.23396"
-               x="91.428574"
-               height="372.17468"
-               width="482.0105"
-               id="rect11446" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:14px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
-             id="flowPara11450">Follow these simple steps to start using Flathub</flowPara></flowRoot>      </g>
-    </g>
-    <rect
-       y="-109.79638"
-       x="153.59128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Flathub contains 162 apps (and counting!) These are some of them.</flowPara></flowRoot>    <rect
+       y="-9.2546711"
+       x="104.64233"
        height="9.260417"
        width="23.547916"
        id="rect1927"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,52.10646,-153.85703)"
+       transform="matrix(0.26458333,0,0,0.26458333,3.157506,-53.315322)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1935"
        xml:space="preserve"><flowRegion
@@ -1169,7 +619,7 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
          id="flowPara1933">Install...</flowPara></flowRoot>    <g
-       transform="translate(-312.20778,246.5917)"
+       transform="translate(-361.15673,347.13341)"
        id="g1947">
       <rect
          y="-356.38834"
@@ -1198,13 +648,13 @@
        id="rect1949"
        width="23.547916"
        height="9.260417"
-       x="153.59128"
-       y="-83.338356" />
+       x="104.64233"
+       y="17.203352" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot1957"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,52.10646,-127.39868)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,3.157506,-26.856972)"><flowRegion
          style="text-align:center;text-anchor:middle"
          id="flowRegion1953"><rect
            style="text-align:center;text-anchor:middle"
@@ -1216,7 +666,7 @@
          id="flowPara1955"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Install...</flowPara></flowRoot>    <g
        id="g1969"
-       transform="translate(-312.20778,273.05002)">
+       transform="translate(-361.15673,373.59173)">
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect1959"
@@ -1240,14 +690,14 @@
            id="flowPara1965"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle">Install...</flowPara></flowRoot>    </g>
     <rect
-       y="-56.880219"
-       x="153.59128"
+       y="43.661488"
+       x="104.64233"
        height="9.260417"
        width="23.547916"
        id="rect1971"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,52.10646,-100.94033)"
+       transform="matrix(0.26458333,0,0,0.26458333,3.157506,-0.39862229)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1979"
        xml:space="preserve"><flowRegion
@@ -1261,7 +711,7 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
          id="flowPara1977">Install...</flowPara></flowRoot>    <g
-       transform="translate(-312.20778,299.50836)"
+       transform="translate(-361.15673,400.05007)"
        id="g1991">
       <rect
          y="-356.38834"
@@ -1286,8 +736,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:center;text-anchor:middle"
            id="flowPara1987">Install...</flowPara></flowRoot>    </g>
     <rect
-       y="-60.05521"
-       x="100.67422"
+       y="40.486496"
+       x="51.725262"
        height="15.610418"
        width="15.610418"
        id="rect2004"
@@ -1297,11 +747,11 @@
        id="rect2006"
        width="15.610418"
        height="15.610418"
-       x="190.63292"
-       y="-60.05521" />
+       x="141.68396"
+       y="40.486496" />
     <rect
-       y="-86.513405"
-       x="190.63292"
+       y="14.028303"
+       x="141.68396"
        height="15.610418"
        width="15.610418"
        id="rect2008"
@@ -1311,18 +761,18 @@
        id="rect2010"
        width="15.610418"
        height="15.610418"
-       x="100.67422"
-       y="-86.513405" />
+       x="51.725262"
+       y="14.028303" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect2012"
        width="15.610418"
        height="15.610418"
-       x="100.67422"
-       y="-112.97204" />
+       x="51.725262"
+       y="-12.43033" />
     <rect
-       y="-112.97204"
-       x="190.63292"
+       y="-12.43033"
+       x="141.68396"
        height="15.610418"
        width="15.610418"
        id="rect2014"
@@ -1332,18 +782,18 @@
        id="rect2016"
        width="15.610418"
        height="15.610418"
-       x="190.63292"
-       y="-139.43024" />
+       x="141.68396"
+       y="-38.888531" />
     <rect
-       y="-139.43024"
-       x="100.67422"
+       y="-38.888531"
+       x="51.725262"
        height="15.610418"
        width="15.610418"
        id="rect2018"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#eeeeec;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
-       y="-165.8889"
-       x="100.67422"
+       y="-65.347191"
+       x="51.725262"
        height="15.610418"
        width="15.610418"
        id="rect2020"
@@ -1353,11 +803,11 @@
        id="rect2022"
        width="15.610418"
        height="15.610418"
-       x="190.63292"
-       y="-165.8889" />
+       x="141.68396"
+       y="-65.347191" />
     <rect
-       y="-192.34709"
-       x="190.63292"
+       y="-91.805382"
+       x="141.68396"
        height="15.610418"
        width="15.610418"
        id="rect2024"
@@ -1367,20 +817,20 @@
        id="rect2026"
        width="15.610418"
        height="15.610418"
-       x="100.67422"
-       y="-192.34709" />
+       x="51.725262"
+       y="-91.805382" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458335;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect2047"
        width="214.04739"
        height="477.04343"
-       x="546.49768"
-       y="-307.17572" />
+       x="476.38211"
+       y="-206.63402" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2055"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,586.4681,-310.16766)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,516.35247,-209.62595)"><flowRegion
          id="flowRegion2051"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start"><rect
            id="rect2049"
@@ -1391,7 +841,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara2053"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">Flathub aims to be the central place to get and distribute apps for Linux. It is powered by Flatpak, which allows the Flathub apps to run on almost any Linux distribution.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,557.63836,-328.69134)"
+       transform="matrix(0.26458333,0,0,0.26458333,487.52273,-228.14963)"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:110.00000238%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2063"
        xml:space="preserve"><flowRegion
@@ -1409,13 +859,13 @@
        id="rect2075"
        width="214.04791"
        height="10.31875"
-       x="546.49768"
-       y="-312.46783" />
+       x="476.38211"
+       y="-211.92613" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2083"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,617.89023,-354.51424)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,547.7746,-253.97253)"><flowRegion
          style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowRegion2079"><rect
            style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
@@ -1426,7 +876,7 @@
            y="168.23396" /></flowRegion><flowPara
          id="flowPara2081"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff">ABOUT / CONTACT / GET INVOLRVED</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,576.61518,-354.51424)"
+       transform="matrix(0.26458333,0,0,0.26458333,506.49955,-253.97253)"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:22px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2091"
        xml:space="preserve"><flowRegion
@@ -1443,7 +893,7 @@
        xml:space="preserve"
        id="flowRoot2099"
        style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:22px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,527.58841,-354.46564)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,457.47278,-253.92393)"><flowRegion
          style="font-size:14.66666698px;text-align:start;text-anchor:start;fill:#ffffff"
          id="flowRegion2095"><rect
            style="font-size:14.66666698px;text-align:start;text-anchor:start;fill:#ffffff"
@@ -1454,7 +904,7 @@
            y="168.23396" /></flowRegion><flowPara
          id="flowPara2097"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:110.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff">FLATHUB</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,586.4681,-285.04213)"
+       transform="matrix(0.26458333,0,0,0.26458333,516.35247,-184.50042)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2279"
        xml:space="preserve"><flowRegion
@@ -1471,7 +921,7 @@
        xml:space="preserve"
        id="flowRoot2287"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,586.4681,-265.90177)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,516.35247,-165.36006)"><flowRegion
          id="flowRegion2283"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start"><rect
            id="rect2281"
@@ -1484,7 +934,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">App developers can submit their applications to be distributed to Flathub's growing user base, thus providing a single gateway to the entire Linux desktop ecosystem. For more information, see <flowSpan
    style="fill:#215d9c"
    id="flowSpan2289">our guide</flowSpan>.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,586.4681,-239.78841)"
+       transform="matrix(0.26458333,0,0,0.26458333,516.35247,-139.2467)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2299"
        xml:space="preserve"><flowRegion
@@ -1501,7 +951,7 @@
        xml:space="preserve"
        id="flowRoot2307"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666985px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,586.4681,-202.74669)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,516.35247,-102.20498)"><flowRegion
          id="flowRegion2303"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666985px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start"><rect
            id="rect2301"
@@ -1512,7 +962,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666985px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara2305"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666985px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start">Contact</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,586.4681,-101.67573)"
+       transform="matrix(0.26458333,0,0,0.26458333,516.35247,-1.1340223)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666985px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2315"
        xml:space="preserve"><flowRegion
@@ -1526,7 +976,7 @@
            id="rect2309" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666985px;line-height:26px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start"
          id="flowPara2313">Acknowledgements</flowPara></flowRoot>    <g
-       transform="matrix(0.26458335,0,0,0.26458335,526.76065,-247.80836)"
+       transform="matrix(0.26458335,0,0,0.26458335,456.64502,-147.26665)"
        style="opacity:1"
        id="g6716">
       <flowRoot
@@ -1570,7 +1020,7 @@
        xml:space="preserve"
        id="flowRoot2369"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458335,0,0,0.26458335,586.4681,-125.20459)"><flowRegion
+       transform="matrix(0.26458335,0,0,0.26458335,516.35247,-24.662882)"><flowRegion
          id="flowRegion2361"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#4a90d9"><rect
            id="rect2359"
@@ -1585,7 +1035,7 @@
    id="flowSpan2392">Security or legal issues can be reported to the</flowSpan> Flathub maintainers<flowSpan
    style="fill:#2e3436"
    id="flowSpan2390">.</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458335,0,0,0.26458335,586.4681,-188.70466)"
+       transform="matrix(0.26458335,0,0,0.26458335,516.35247,-88.162952)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2404"
        xml:space="preserve"><flowRegion
@@ -1602,7 +1052,7 @@
        xml:space="preserve"
        id="flowRoot2412"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458335,0,0,0.26458335,586.4681,-164.89216)"><flowRegion
+       transform="matrix(0.26458335,0,0,0.26458335,516.35247,-64.350452)"><flowRegion
          id="flowRegion2408"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"><rect
            id="rect2406"
@@ -1616,7 +1066,7 @@
        xml:space="preserve"
        id="flowRoot2420"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458335,0,0,0.26458335,586.4681,-88.162963)"><flowRegion
+       transform="matrix(0.26458335,0,0,0.26458335,516.35247,12.378745)"><flowRegion
          id="flowRegion2416"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"><rect
            id="rect2414"
@@ -1627,7 +1077,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara2418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:135.00000238%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436">Flathub wouldn't be possible without the generous support of the following organizations and individuals.</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458335,0,0,0.26458335,586.4681,-70.171297)"
+       transform="matrix(0.26458335,0,0,0.26458335,516.35247,30.370411)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2428"
        xml:space="preserve"><flowRegion
@@ -1648,7 +1098,7 @@
        xml:space="preserve"
        id="flowRoot2452"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458335,0,0,0.26458335,586.4681,-38.421295)"><flowRegion
+       transform="matrix(0.26458335,0,0,0.26458335,516.35247,62.120413)"><flowRegion
          id="flowRegion2444"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:175%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"><rect
            id="rect2442"
